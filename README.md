@@ -31,8 +31,6 @@ The following technologies were used to develop the PDF Text Editor:
 - **Crop Image**: Users can crop an image and add it to the PDF file.
 - **Rotate Pages**: Users can rotate the pages of the PDF file.
 - **Delete Page**: Users can delete a specific page from the PDF file.
-- **Merge PDF**: Users can merge multiple PDF files into a single file.
-- **Split PDF**: Users can split a PDF file into individual pages.
 - **Keyboard Shortcuts**: Users can use keyboard shortcuts for copy, paste, and cut operations.
 
 ## Installation
@@ -73,8 +71,6 @@ Once the application is launched, you can use the graphical user interface (GUI)
 - Click on the "Crop Image" button to crop an image and add it to the PDF file.
 - Click on the "Rotate" button to rotate the pages of the PDF file.
 - Click on the "Delete Page" button to delete a specific page from the PDF file.
-- Click on the "Merge PDF" button to merge multiple PDF files into a single file.
-- Click on the "Split PDF" button to split a PDF file into individual pages.
 
 ## Dependencies
 
