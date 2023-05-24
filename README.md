@@ -60,7 +60,7 @@ The following technologies were used to develop the PDF Text Editor:
 Run the application using the following command:
 
 ```bash
-python text-editor.py
+python3 text-editor.py
 ```
 
 Once the application is launched, you can use the graphical user interface (GUI) to perform various operations. Here's a brief overview of the available options:
