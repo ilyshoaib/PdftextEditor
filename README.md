@@ -21,13 +21,13 @@ This is a simple text editor application built using Python and the Tkinter libr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/text-editor.git
+   git clone https://github.com/ilyshoaib/PdftextEditor.git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd text-editor
+   cd PdftextEditor
    ```
 
 3. Install the required dependencies:
@@ -41,7 +41,7 @@ This is a simple text editor application built using Python and the Tkinter libr
 Run the application using the following command:
 
 ```bash
-python text_editor.py
+python text-editor.py
 ```
 
 Once the application is launched, you can use the graphical user interface (GUI) to perform various operations. Here's a brief overview of the available options:
